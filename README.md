@@ -68,7 +68,7 @@ LICENSE                   # Recommended: CC-BY-SA or similar for docs
 
 ## Resources (trusted, defensive)
 
-* OWASP Phishing Guidance: [https://owasp.org/](https://owasp.org/) (see phishing and social engineering sections)
+* OWASP Phishing Guidance: [https://516hackers.github.io/zphisher-commands/](https://516hackers.github.io/zphisher-commands/) (see phishing and social engineering sections)
 * NIST: Computer Security Resource Center — phishing-related guidance
 * SANS Institute: Phishing and Social Engineering Awareness resources
 * National CERT / Government cybersecurity pages for local reporting
